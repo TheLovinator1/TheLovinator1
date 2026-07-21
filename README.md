@@ -1,2 +1,2 @@
 The microplastics in my brain force me to program in Python.
-![GlND7kQWUAEr8Mc](https://github.com/user-attachments/assets/60da04dd-f084-4937-9e0a-3bbe52eac1f8)
+<img width="959" height="658" alt="image" src="https://github.com/user-attachments/assets/daf3c0d3-8b87-425b-83d6-46dbb39c65e1" />
