@@ -4,7 +4,7 @@
 * [discord-free-game-notifier](https://github.com/TheLovinator1/discord-free-game-notifier)
 * [discord-reminder-bot](https://github.com/TheLovinator1/discord-reminder-bot)
 * [discord-rss-bot](https://github.com/TheLovinator1/discord-rss-bot)
-* [kickautodrops](https://github.com/TheLovinator1/kickautodrops)
+* [kick-auto-drops](https://github.com/TheLovinator1/kick-auto-drops)
 * [rss-feeds](https://github.com/TheLovinator1/rss-feeds)
 * [sitemap-parser](https://github.com/TheLovinator1/sitemap-parser)
 * [ttvdrops](https://github.com/TheLovinator1/ttvdrops)
