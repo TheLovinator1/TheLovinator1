@@ -1,2 +1,11 @@
-The microplastics in my brain force me to program in Python.
-<img width="640" height="614" alt="image" src="https://github.com/user-attachments/assets/4e0ed84f-bdb8-4608-9306-c4651ce82e18" />
+<img align="left" width="32.5%" src="https://lovinator.space/left.png">
+<img align="right" width="32.5%" src="https://lovinator.space/right.png">
+
+* [discord-free-game-notifier](https://github.com/TheLovinator1/discord-free-game-notifier)
+* [discord-reminder-bot](https://github.com/TheLovinator1/discord-reminder-bot)
+* [discord-rss-bot](https://github.com/TheLovinator1/discord-rss-bot)
+* [kickautodrops](https://github.com/TheLovinator1/kickautodrops)
+* [rss-feeds](https://github.com/TheLovinator1/rss-feeds)
+* [sitemap-parser](https://github.com/TheLovinator1/sitemap-parser)
+* [ttvdrops](https://github.com/TheLovinator1/ttvdrops)
+* [wutheringwaves](https://github.com/TheLovinator1/wutheringwaves)
