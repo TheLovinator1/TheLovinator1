@@ -1,5 +1,5 @@
-<img align="left" width="32.5%" src="https://lovinator.space/left.png">
-<img align="right" width="32.5%" src="https://lovinator.space/right.png">
+<img align="left" width="32.5%" src="https://lovinator.space/left.png?2026-08-28">
+<img align="right" width="32.5%" src="https://lovinator.space/right.png?2026-08-28">
 
 * [discord-free-game-notifier](https://github.com/TheLovinator1/discord-free-game-notifier)
 * [discord-reminder-bot](https://github.com/TheLovinator1/discord-reminder-bot)
